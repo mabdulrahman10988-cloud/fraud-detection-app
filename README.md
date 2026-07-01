@@ -2,7 +2,7 @@
 
 A machine learning web app that predicts whether a credit card transaction is **fraudulent** or **normal**, with a confidence score. Built with scikit-learn and deployed using Streamlit.
 
-🔗 **Live App:** [Try it here](https://fraud-detection-app-wmjv47r3ade9bm27mmfrek.streamlit.app/)
+🔗 **Live App:** [Try it here](https://fraud-detection-app-j9imfo2bzrdfvqhtxp7xs9.streamlit.app/)
 
 ---
 
